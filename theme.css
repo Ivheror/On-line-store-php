@@ -1,0 +1,30 @@
+body{
+  margin:0;
+  padding:0;
+  background-color:#A8FFF5;
+  font-family:Calibri;
+}
+#cabecera{
+  float:left;
+  width:100%;
+  height:160px;
+  background-color:#2171E8;
+
+}
+#cabecera h2{
+  font-size:28px;
+  color:white;
+  text-align:left;
+  margin-left: 3%;
+}
+#cabecera #contenido{
+  float:right;
+  margin-top: -5%;
+  margin-right: 2%;
+  color:white;
+}
+#caja{
+text-align:center;
+float:left;
+width:100%;
+}
